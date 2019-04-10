@@ -1,4 +1,4 @@
-package cinema;
+package java.cinema;
 
 public class SimpleTicket implements Ticket {
     private double price;

@@ -1,4 +1,4 @@
-package cinema;
+package java.cinema;
 
 public class CinemaApp {
     private SimpleTicket simpleTicket;

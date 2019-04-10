@@ -1,4 +1,4 @@
-package cinema;
+package java.cinema;
 
 public class CardTicket implements Ticket{
     private final double percentageOff;

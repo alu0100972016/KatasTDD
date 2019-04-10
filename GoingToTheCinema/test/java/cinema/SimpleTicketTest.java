@@ -1,4 +1,4 @@
-package cinema;
+package java.cinema;
 
 import org.junit.Assert;
 import org.junit.Test;
